@@ -2,7 +2,7 @@ import "dotenv/config";
 import express from "express";
 import cors from "cors";
 import { handleDemo } from "./routes/demo";
-import "antd/dist/reset.css";
+// import "antd/dist/reset.css";
 
 export function createServer() {
   const app = express();
