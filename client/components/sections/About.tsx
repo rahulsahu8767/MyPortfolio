@@ -17,7 +17,7 @@ export function About() {
           <div className="animate-slide-up space-y-6">
             <p className="text-lg text-foreground/80 leading-relaxed">
               {/* EDIT HERE: Replace with your about section content */}
-              With over 6 Months of experience in web development, I've had the privilege of
+              With over 6 months of experience in web development, I've had the privilege of
               working with talented teams to build impactful digital solutions. My journey began
               with a curiosity about how things work on the web, and it has evolved into a
               passion for creating elegant, user-centered designs and robust backend systems.
@@ -36,8 +36,7 @@ export function About() {
               </h3>
               <p className="text-foreground/70 italic">
                 {/* EDIT HERE: Replace with your unique fun fact or story */}
-                You can replace this with your own unique story. Maybe you built your first website at age 10, or you
-                once debugged code for 48 hours straight. Share something that makes you unique!
+                🚀 Built my first full-stack app before learning how to cook Maggi properly.
               </p>
             </div>
           </div>
